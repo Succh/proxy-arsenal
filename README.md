@@ -16,7 +16,6 @@
 | **TUIC** | QUIC | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | 全平台 | 维护中 |
 | **WireGuard** | WireGuard | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 全平台 | 活跃更新 |
 | **Mihomo** | 多协议 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 全平台 | 活跃更新 |
-| **Clash Verge Rev** | 多协议 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 全平台 | 活跃更新 |
 
 ## 🔧 代理协议详解
 
@@ -84,23 +83,68 @@ Clash的增强分支，支持更多协议和功能。
 - GitHub：https://github.com/MetaCubeX/mihomo
 - 适用场景：需要Clash配置格式的高级用户
 
-## 📦 GUI客户端推荐
+## 🖥️ GUI 客户端大全
 
-| 平台 | 推荐客户端 |
-|------|----------|
-| Windows | Clash Verge Rev、V2rayN、Hiddify |
-| macOS | ClashX Pro、Clash Verge Rev、Surge |
-| Android | Clash Meta for Android、V2rayNG、NekoBox |
-| iOS | Shadowrocket、Quantumult X、Stash、Surge |
+### Clash 衍生客户端（基于 Mihomo 内核）
+
+| 客户端 | 平台 | 状态 | GitHub |
+|--------|------|------|--------|
+| **Clash Verge Rev** | Win/macOS/Linux | ✅ 活跃更新 | https://github.com/clash-verge-rev/clash-verge-rev |
+| **FlClash** | Win/macOS/Linux/Android | ✅ 活跃更新 | https://github.com/chen08209/FlClash |
+| **Clash Nyanpasu** | Win/macOS/Linux | ✅ 活跃更新 | https://github.com/keiko233/clash-nyanpasu |
+| **Clash Party** | Win/macOS/Linux | ✅ 活跃更新 | https://github.com/YE-2025/clash-party |
+| **Mihomo Party** | Win/macOS/Linux | ✅ 活跃更新 | https://github.com/mihomo-party/mihomo-party |
+| **ClashX Pro** | macOS | ✅ 维护中 | https://github.com/clashx-pro/ClashX-Pro |
+| **Clash Mi** | Android | ✅ 活跃更新 | https://github.com/MetaCubeX/ClashMi |
+| **Clash Meta for Android** | Android | ⚠️ 已停更 | https://github.com/MetaCubeX/clashmetaforandroid |
+| **Clash for Windows** | Win/macOS/Linux | ❌ 已归档 | https://github.com/Fndroid/clash_for_windows_pkg |
+| **ClashN** | Win | ⚠️ 已停更 | https://github.com/2dust/ClashN |
+
+### V2Ray 系列客户端
+
+| 客户端 | 平台 | 状态 | GitHub |
+|--------|------|------|--------|
+| **V2rayN** | Win | ✅ 活跃更新 | https://github.com/2dust/v2rayN |
+| **V2rayNG** | Android | ✅ 活跃更新 | https://github.com/2dust/v2rayNG |
+| **V2rayU** | macOS | ✅ 维护中 | https://github.com/yanue/V2rayU |
+| **V2rayA** | Linux/Web | ✅ 活跃更新 | https://github.com/v2rayA/v2rayA |
+
+### sing-box 系列客户端
+
+| 客户端 | 平台 | 状态 | GitHub |
+|--------|------|------|--------|
+| **NekoRay** | Win/Linux | ✅ 活跃更新 | https://github.com/MatsuriDayo/NekoRay |
+| **NekoBox** | Android | ✅ 活跃更新 | https://github.com/MatsuriDayo/NekoBox |
+| **Hiddify** | 全平台 | ✅ 活跃更新 | https://github.com/hiddify/hiddify-app |
+| **Karing** | 全平台 | ✅ 活跃更新 | https://github.com/KaringX/karing |
+
+### iOS 客户端
+
+| 客户端 | 内核 | 价格 | App Store |
+|--------|------|------|----------|
+| **Shadowrocket** | 多协议 | 付费 | 需外区账号 |
+| **Quantumult X** | 多协议 | 付费 | 需外区账号 |
+| **Stash** | Mihomo | 付费 | 需外区账号 |
+| **Surge** | 原生 | 付费 | 需外区账号 |
+| **Loon** | 多协议 | 付费 | 需外区账号 |
+
+### 路由器固件
+
+| 固件/插件 | 平台 | 状态 |
+|-----------|------|------|
+| **OpenClash** | OpenWrt | ✅ 活跃更新 |
+| **MerlinClash** | 梅林固件 | ✅ 维护中 |
+| **ShellClash** | Linux路由器 | ✅ 维护中 |
 
 ## 🔗 资源汇总
 
 | 类型 | 资源 | 链接 |
 |------|------|------|
 | 免费节点 | 免费SS/VMess节点 | https://github.com/freefq/free |
-| 订阅转换 | 订阅链接转换工具 | https://github.com/tindy2013/subconverter |
-| 面板管理 | x-ui面板 | https://github.com/vaxilu/x-ui |
-| 面板管理 | 3x-ui面板 | https://github.com/MHSanaei/3x-ui |
+| 订阅转换 | subconverter | https://github.com/tindy2013/subconverter |
+| 面板管理 | x-ui | https://github.com/vaxilu/x-ui |
+| 面板管理 | 3x-ui | https://github.com/MHSanaei/3x-ui |
+| 一键脚本 | V2Ray一键安装 | https://github.com/233boy/v2ray |
 
 ## ⚠️ 免责声明
 
