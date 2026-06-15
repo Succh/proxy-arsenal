@@ -136,6 +136,112 @@ Clash的增强分支，支持更多协议和功能。
 | **MerlinClash** | 梅林固件 | ✅ 维护中 |
 | **ShellClash** | Linux路由器 | ✅ 维护中 |
 
+## 📖 客户端使用教程
+
+### Clash Verge Rev（Windows/macOS/Linux）推荐指数：⭐⭐⭐⭐⭐
+
+![Clash Verge Rev](https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/main/src-tauri/icons/icon.png)
+
+**下载安装：**
+1. 访问 [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+2. Windows 下载 `.exe` 安装包（推荐 x64 版本）
+3. macOS 下载 `.dmg` 安装包
+4. 首次启动会提示安装服务，**必须同意**
+
+**基本配置：**
+1. 打开软件 → 点击左侧「订阅」
+2. 点击「新建」→ 粘贴订阅链接 → 保存
+3. 点击「代理」→ 选择节点
+4. 开启「系统代理」或「TUN模式」
+
+**快捷键：**
+- `Ctrl+Shift+Q`：开关系统代理
+- `Ctrl+Shift+T`：切换TUN模式
+
+---
+
+### FlClash（全平台）推荐指数：⭐⭐⭐⭐⭐
+
+![FlClash](https://raw.githubusercontent.com/chen08209/FlClash/main/assets/images/icon.png)
+
+**特点：** Material You 设计风格，一个软件覆盖全平台
+
+**下载安装：**
+1. 访问 [GitHub Releases](https://github.com/chen08209/FlClash/releases)
+2. 下载对应平台安装包
+
+**基本配置：**
+1. 打开软件 → 点击「配置」
+2. 添加订阅链接 → 更新
+3. 点击「代理」→ 选择节点
+4. 开启连接
+
+---
+
+### V2rayN（Windows）推荐指数：⭐⭐⭐⭐⭐
+
+**下载安装：**
+1. 访问 [GitHub Releases](https://github.com/2dust/v2rayN/releases)
+2. 下载 zip 包解压
+3. 双击 `v2rayN.exe` 运行
+
+**基本配置：**
+1. 任务栏托盘找到蓝色 V2rayN 图标
+2. 右键 → 添加服务器/订阅
+3. 粘贴订阅链接 → 确定
+4. 右键 → 系统代理 → 自动配置系统代理
+
+---
+
+### V2rayNG（Android）推荐指数：⭐⭐⭐⭐⭐
+
+**下载安装：**
+1. [GitHub Releases](https://github.com/2dust/v2rayNG/releases) 或 Google Play
+2. 安装 APK
+
+**基本配置：**
+1. 打开 APP → 点击右上角 `+`
+2. 选择「从剪贴板导入」或「手动输入」
+3. 点击右下角播放按钮开始连接
+4. 首次使用需允许 VPN 权限
+
+---
+
+### Shadowrocket（iOS）推荐指数：⭐⭐⭐⭐⭐
+
+**下载：** App Store 搜索「Shadowrocket」（需外区账号，付费）
+
+**基本配置：**
+1. 打开 APP → 点击右上角 `+`
+2. 类型选择对应的协议
+3. 填入服务器信息或扫描二维码
+4. 连接开关打开
+5. 首次使用需添加 VPN 配置
+
+---
+
+### Hiddify（全平台）推荐指数：⭐⭐⭐⭐
+
+**下载：** [GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
+
+**基本配置：**
+1. 打开软件 → 点击 `+` 添加配置
+2. 粘贴订阅链接
+3. 选择节点 → 开启连接
+
+---
+
+### NekoBox（Android）推荐指数：⭐⭐⭐⭐
+
+**下载：** [GitHub Releases](https://github.com/MatsuriDayo/NekoBox/releases)
+
+**基本配置：**
+1. 打开 APP → 点击 `+`
+2. 支持扫码、剪贴板导入、手动输入
+3. 选择节点 → 点击连接
+
+---
+
 ## 🔗 资源汇总
 
 | 类型 | 资源 | 链接 |
