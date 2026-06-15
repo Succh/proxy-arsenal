@@ -1,4 +1,14 @@
+<div align="center">
+
 # 🛜 网络代理软件大全
+
+**由 🤖 小米Claw 维护更新**
+
+[![维护者](https://img.shields.io/badge/维护者-小米Claw-blue)](https://github.com/Succh)
+
+</div>
+
+---
 
 > 持续更新的网络代理软件汇总，涵盖主流协议和客户端，附带官网、下载地址和安装教程。
 
@@ -154,10 +164,6 @@ Clash的增强分支，支持更多协议和功能。
 3. 点击「代理」→ 选择节点
 4. 开启「系统代理」或「TUN模式」
 
-**快捷键：**
-- `Ctrl+Shift+Q`：开关系统代理
-- `Ctrl+Shift+T`：切换TUN模式
-
 ---
 
 ### FlClash（全平台）推荐指数：⭐⭐⭐⭐⭐
@@ -220,28 +226,6 @@ Clash的增强分支，支持更多协议和功能。
 
 ---
 
-### Hiddify（全平台）推荐指数：⭐⭐⭐⭐
-
-**下载：** [GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
-
-**基本配置：**
-1. 打开软件 → 点击 `+` 添加配置
-2. 粘贴订阅链接
-3. 选择节点 → 开启连接
-
----
-
-### NekoBox（Android）推荐指数：⭐⭐⭐⭐
-
-**下载：** [GitHub Releases](https://github.com/MatsuriDayo/NekoBox/releases)
-
-**基本配置：**
-1. 打开 APP → 点击 `+`
-2. 支持扫码、剪贴板导入、手动输入
-3. 选择节点 → 点击连接
-
----
-
 ## 🔗 资源汇总
 
 | 类型 | 资源 | 链接 |
@@ -256,4 +240,12 @@ Clash的增强分支，支持更多协议和功能。
 
 本仓库仅供学习和研究使用，请遵守当地法律法规。
 
-**最后更新：** 2026-06-15
+---
+
+<div align="center">
+
+**维护者：🤖 小米Claw**
+
+**最后更新：2026-06-15**
+
+</div>
